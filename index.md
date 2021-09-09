@@ -1,37 +1,195 @@
-## Welcome to GitHub Pages
+## 熟词僻义
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/VolcabularyWithDifferentMeanings.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+abandon		n. 沉湎
+abstracted	adj. 心不在焉的
+accent	n. 重点，强调
+accord	n. 和谐
+acknowledge	v. 认可，感谢
+affect	v.假装
+afford	v. 提供
+air	n. 气质，氛围
+appeal	v. 诉诸
+appreciation	n. 理解
+apprehend	v. 逮捕；理解
+appropriate	v. 私吞
+arresting		adj. 吸引人的
+article	n. 物件
+assume	v. 承担
+attend to		照顾
+awesome	adj. 让人敬畏的
+back	v. 支持
+balloon	v. 剧增
+bar	adv. 除...以外
+be bound to	一定
+become	v. 适合
+betray	v. 暴露
+blanket	adj. 全面的；盲目的
+bridge	v. 缩短
+brief	v. 详细介绍
+but	adv. 除了
+calculated	adj. 刻意的
+case	n. 理由
+categorical	adj. 明确的，绝对的
+cause	n. 事业
+celebrate	v. 赞扬
+champion	v. 支持
+charge	n. 负担
+check	v. 阻止
+choice	adj. 上等的
+class	n. 阶级
+close	adj. [天气]闷热的
+cloud	v. 使...蒙上阴影
+coin	v. 捏造
+collar	v. 钳制住
+collected	adj. 镇定的
+comb	v. 彻底搜查
+company	n. 同伴，伴侣
+compass	n. 范围
+complex	n. 综合体系；情节(比如恋父)
+composed	adj. 镇定的
+comprehend	v. 包括
+compromise	v. 危害
+conclude	v. 结束
+confidence	v. 秘密；信赖
+be consumed with	充满[情绪]
+consuming	adj. 激烈的[情绪]
+contain	v. 抑制
+couch	v. 表达
+course	n. 进程
+cow		v. 恐吓
+cry	v. 大叫
+culture	v. 培育
+deliver	v. 实现
+desert	v. 抛弃
+draw	n. 平局
+drive	n. 动力
+duty	n. 关税
+economy	n. 节约
+embarrass	v. 阻碍
+employ	v. 使用
+end	n. 目的
+engineer	v. 操纵
+entertain	v. 怀有
+entrance	v. 使...着迷
+established	adj.已成体系的
+evidence	v. 证明
+exercise	v. 行使
+exhaust	v. 用尽
+facility	n. 才能
+faculty	n. 官能；才能
+fashion	n. 方式
+fast	n. 禁食
+fence	v. 避开
+finance	v. 资助
+fish	v. 掏出
+flag	v. 衰退；萎靡
+foreign	adj. 陌生的
+forward	v. 推动
+found (unfounded)	v. 建立，(unfounded: adj. 无依据的)
+founder	v. 沉没；失败
+frequent	v. 常常拜访
+game	n. 猎物
+gay	adj. 开心的
+gift	n. 天赋
+gravity	n. 庄重
+ground	n. 理由
+guy	v. 固定
+harbor	v. 怀有
+hazard	v. 试着说出
+hide	n. 兽皮
+humor	v. 迁就
+husband		v. 节约使用
+industry	n. 勤奋
+inform	v. [精神]贯穿于
+interest	n. 利益
+intimate	v. 说出
+intrigue	v. 密谋
+invest	v. 赋予
+inviting	adj. 吸引人的
+involved		adj. 复杂的
+just	adj. 公正的
+land		v. 获得
+late	adj. 死去的
+lay	adj. 外行的
+lecture	v. 居高临下地教训
+level	adj. 水平的
+long	v. 渴望
+lot	n. 命运
+maintain	v. 坚持认为
+means	n. 方法
+might	n. 威力；力量
+minute	adj. 微不足道的
+mushroom	v. 激增
+nature	n. 天性，本质
+negotiate	v. 顺利通过；解决
+novel	adj. 新奇的
+observe	v. 遵守
+occasion		v. 引起
+occupation	n. 职业；消遣
+peer		n. 贵族
+popular	adj. 民众的；民粹的
+pride	n. (英文量词)一群[狮子]
+prize	v. 珍视
+promise		n. 前途
+promising	adj. 有前景的
+provided	adv. 如果
+province		n. 领域
+purchase	v. 紧握
+pursuit	n. 爱好
+quality	adj. 上等的
+realize	v. 实现
+reason	v. 争辩
+register	v. 怀有
+relief	n. 凸显
+repair	v. 前往
+resigned		adj. 无奈的
+resignation	n. 无奈
+respect	n. 方面
+retire	v. 离开
+run	n. 抛售
+save	adv. 除了
+school	n. 学派；(英文量词)一群[鱼]
+season	v. 腌制
+second	v. 支持
+secure	v. 获得
+sentence	v. 判刑
+share	n. 份额
+shred	n. 少量
+singular		adj.非凡的
+slight	v. 轻视
+smart	v. 剧痛
+sound	adj. 安稳的
+spring	v. 跳跃；轻快行动
+stay		v. 抑制
+still		v. 蒸馏
+stomach		v. 接受
+studied	adj. 做作的
+subject	v. 使...臣服
+table	v. 拖延
+tax	v. 使...受重负
+tear	v. 扯开
+tell	v. 看出
+tender	v. 呈交
+tidings	n. 消息
+title		n. 头衔
+touch	n. 微量
+train	n. 一系列
+trip		v. 绊倒
+trying	adj. 折磨人的
+vein		n. 风格
+wage	v. 发动；兴起
+wake	n. 余波
+want	n. 匮乏
+wanting	adj. 缺乏的
+weather	v. 使...受日晒雨淋；使...饱经沧桑<br>
+well		v. 冒出；涌出<br>
+wind	v. 弯曲；缠绕<br>
+without	adv. 外部<br>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/VolcabularyWithDifferentMeanings.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
