@@ -142,7 +142,7 @@ province		n. 领域<br>
 purchase	v. 紧握<br>
 pursuit	n. 爱好<br>
 quality	adj. 上等的<br>
-realize	v. 实现<br><br>
+realize	v. 实现<br>
 reason	v. 争辩<br>
 register	v. 怀有<br》
 relief	n. 凸显<br>
