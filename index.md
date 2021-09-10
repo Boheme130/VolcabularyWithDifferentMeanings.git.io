@@ -3,7 +3,16 @@
 <br>
 <br>
 
+英耽里有大量复古小说，比如KJ Charles, Tamara Allen, Joanna Chambers的作品，它们大多发生在十九世纪到二十世纪前期的美国和欧洲，这些小说非常精彩，是我最喜欢的题材之一。但是这些小说为了还原故事的年代，在语言上也努力往那个年代的作品语言靠拢，因此，复古英耽的英语运用和现代背景的英耽有着明显的区别。我们在国内学校里主要学的都是现代英语，许多人包括我一开始对这类作品的语言都有阅读困难。如果大家对我们在国内学的英语和这些古风文字的区别不够清楚，可以试着阅读下面这段比较难的古风节选：
 
+一个19世纪的社畜恨透了自己的老板 <br>
+###### I am not of an impatient nature, and influenced by the double desire of getting my living and justifying to myself and others the resolution I had taken to become a tradesman, I should have endured in silence the rust and cramp of my best faculties; I should have pent in every sigh by which my heart might have ventured to intimate its distress under the closeness, smoke, monotony, and joy less tumult of Bigben Close. My southern accent annoyed him; the degree of education evinced in my language irritated him; my punctuality, industry, and accuracy, fixed his dislike。
+
+这段话除了句子比较长，里面的几个单词nature(天性), faculties(官能), intimate(说出), industry(勤勉)和现代英语意思都不太一样
+
+这种小说看起来很难，但实际上掌握了套路之后，阅读起来我个人感觉其实比现代背景的英耽更加轻松。现代背景的英耽难点集中在名词和丰富的文化梗，每一本书都可以有很大的差别，因此难度浮动很大。
+
+相比之下，古风英耽词汇的难点集中在熟词僻义的形容词和动词，但这类词汇非常固定，每一本书都大同小异，比如conclude表结束，end表目的。同时，古风的文化背景比现代小说也比较单一，永远绕不开贵族/工人/阶级几个角度，读多了其实相当适应。如果首先适应了这类小说的词汇，阅读难度可以说是减了一大半。这里就和大家分享一份古风英耽常见熟词僻义词汇表，除了下面的词表以外还有quizlet链接：https://quizlet.com/_6v89ne?x=1jqt&i=yfc58
 
 
 abandon		n. 沉湎 <br>
